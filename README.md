@@ -11,7 +11,7 @@
                        %%&////////////##////////////##%##               
                          /////////////##///////////##%##                Contact Information
                           @/////////(#####////////@                     ---------------
-                           @//////////////////////                      Website: nangurepo.com
+                           @//////////////////////                      Website: nangu.dev
                              #///////////////////                       Discord: pegefinger#1805
                              @@@///#@@@@@@@///#@@                       GitHub: nangurepo
                            @@@@(&////////////@(@@@                      Email: nangurepo@gmail.com
